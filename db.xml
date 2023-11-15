@@ -1,0 +1,6 @@
+<database>
+    <hostname>192.168.1.100</hostname>
+    <user>postgres</user>
+    <password>14196123</password>
+    <name>os</name>
+</database>

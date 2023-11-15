@@ -1,0 +1,28 @@
+[INFO] подключение к 192.168.1.106 установлено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:03:55.339792
+[INFO] Сканирование окончено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:03:55.560512
+[INFO] Успешное подключение к базе данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:03:55.603204
+[INFO] Успешное внесение данных базу данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:03:55.605694
+[Error] Ошибка при подключении по ssh [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:07:06.364790
+[INFO] подключение к 192.168.1.105 установлено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:09:22.063442
+[INFO] Сканирование окончено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:09:22.213224
+[INFO] Успешное подключение к базе данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:09:22.244899
+[INFO] Успешное внесение данных в базу данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:09:22.248467
+[INFO] подключение к 192.168.1.107 установлено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:13:34.236518
+[INFO] Сканирование окончено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:13:34.373877
+[INFO] Успешное подключение к базе данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:13:34.416578
+[INFO] Успешное внесение данных в базу данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:13:34.419538
+[Error] Введен некорректный ip C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:15:33.731329
+[INFO] подключение к 192.168.1.106 установлено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:16:09.784106
+[INFO] Сканирование окончено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:16:10.064799
+[INFO] Успешное подключение к базе данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:16:10.081790
+[INFO] Успешное внесение данных в базу данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:16:10.084639
+[Error] Введен некорректный ip C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:17:15.652211
+[Error] Введен некорректный порт C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:18:59.145975
+[Error] Ошибка при подключении по ssh [Errno None] Unable to connect to port 22 on 192.168.1.100 C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:20:41.981087
+[INFO] Настройка соединения к базе данных C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:23:01.895654
+[INFO] Изменения сохранены C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:24:33.545127
+[INFO] подключение к 192.168.1.106 установлено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:25:12.253254
+[INFO] Сканирование окончено C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:25:12.480830
+[Error] Ошибка при работе с PostgreSQL connection to server at "192.168.1.100", port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+ C:\Users\kamal\PycharmProjects\INT2\logs.py 2023-11-15 05:25:16.416720
